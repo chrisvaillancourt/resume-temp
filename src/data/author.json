@@ -8,18 +8,16 @@
     "telephone": "(619) 630 - 9056",
     "website": "",
     "skills": ["HTML", "CSS", "Javascript / ES6", "UI Design", "React", "Git"],
-    "languages": [
+    "projects": [
         {
-            "name": "English",
-            "level": "native"
+            "name": "Population Time Series",
+            "url": "https://www.fastcompany.com/90449792/this-map-stunningly-visualizes-a-decade-of-u-s-population-growth-from-2010-2019",
+            "code": ""
         },
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
+            "name": "COVID Vulnerability",
+            "url": "https://www.usnews.com/news/cities/articles/2020-04-17/map-these-us-cities-are-most-vulnerable-to-coronavirus",
+            "code": ""
         }
     ],
     "social": [
